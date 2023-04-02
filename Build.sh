@@ -1,0 +1,7 @@
+#!/bin/bash
+
+ls -ll
+for i in {1..20}; do
+    echo $i
+    sleep 1
+done
